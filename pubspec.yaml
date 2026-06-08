@@ -1,0 +1,40 @@
+name: universal_rating_bar
+description: A flexible Flutter rating bar with icon, SVG/PNG asset, and custom widget support, half ratings, drag gestures, and read-only mode.
+version: 1.0.0
+homepage: https://github.com/kishan/universal_rating_bar
+repository: https://github.com/kishan/universal_rating_bar
+issue_tracker: https://github.com/kishan/universal_rating_bar/issues
+
+topics:
+  - rating
+  - rating-bar
+  - star-rating
+  - widgets
+  - svg
+  - ui
+  - flutter-widget
+  - reviews
+
+screenshots:
+  - description: Default amber star rating with built-in half-star icon support.
+    path: screenshots/default_stars.png
+  - description: Interactive drag rating and read-only display mode.
+    path: screenshots/interactive_demo.png
+  - description: Multiple rendering modes — icons, SVG assets, emoji widgets, and vertical layout.
+    path: screenshots/showcase_modes.png
+
+environment:
+  sdk: ^3.10.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
