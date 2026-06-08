@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:universal_rating_bar/universal_rating_bar.dart';
+import 'package:flutter_rating_bar_universal/flutter_rating_bar_universal.dart';
 
 void main() {
   group('RatingMath', () {

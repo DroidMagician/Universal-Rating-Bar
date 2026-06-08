@@ -1,5 +1,5 @@
-name: universal_rating_bar
-description: A flexible Flutter rating bar with icon, SVG/PNG asset, and custom widget support, half ratings, drag gestures, and read-only mode.
+name: flutter_rating_bar_universal
+description: A universal Flutter rating bar with icon, SVG/PNG asset, and custom widget support — half ratings, drag gestures, animations, and read-only mode.
 version: 1.0.0
 homepage: https://github.com/DroidMagician/Universal-Rating-Bar
 repository: https://github.com/DroidMagician/Universal-Rating-Bar

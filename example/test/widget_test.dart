@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:universal_rating_bar_example/main.dart';
+import 'package:flutter_rating_bar_universal_example/main.dart';
 
 void main() {
   testWidgets('Example app smoke test', (WidgetTester tester) async {

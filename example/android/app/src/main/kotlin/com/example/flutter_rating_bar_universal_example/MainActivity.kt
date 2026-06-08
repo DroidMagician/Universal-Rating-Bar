@@ -1,4 +1,4 @@
-package com.example.universal_rating_bar_example
+package com.example.flutter_rating_bar_universal_example
 
 import io.flutter.embedding.android.FlutterActivity
 

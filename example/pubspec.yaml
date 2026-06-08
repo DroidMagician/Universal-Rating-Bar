@@ -1,5 +1,5 @@
-name: universal_rating_bar_example
-description: Example app for universal_rating_bar.
+name: flutter_rating_bar_universal_example
+description: Example app for flutter_rating_bar_universal.
 publish_to: 'none'
 
 environment:
@@ -8,7 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  universal_rating_bar:
+  flutter_rating_bar_universal:
     path: ../
 
 dev_dependencies:

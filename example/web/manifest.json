@@ -1,6 +1,6 @@
 {
-    "name": "universal_rating_bar_example",
-    "short_name": "universal_rating_bar_example",
+    "name": "flutter_rating_bar_universal_example",
+    "short_name": "flutter_rating_bar_universal_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

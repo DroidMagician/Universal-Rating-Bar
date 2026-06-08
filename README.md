@@ -1,6 +1,6 @@
-# universal_rating_bar
+# flutter_rating_bar_universal
 
-[![pub package](https://img.shields.io/pub/v/universal_rating_bar.svg)](https://pub.dev/packages/universal_rating_bar)
+[![pub package](https://img.shields.io/pub/v/flutter_rating_bar_universal.svg)](https://pub.dev/packages/flutter_rating_bar_universal)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A flexible, production-ready Flutter rating bar that supports **icons**, **SVG/PNG assets**, and **custom widgets** — with half ratings, drag gestures, animations, and read-only display mode.
@@ -13,7 +13,7 @@ Most rating packages only accept `IconData`. This package solves that with three
 
 ## Why this package?
 
-| Problem in other packages | universal_rating_bar |
+| Problem in other packages | flutter_rating_bar_universal |
 |---|---|
 | Only `IconData` | Icon, SVG/PNG, network, custom widgets |
 | Poor half-star rendering | `Icons.star_half` + dynamic clip |
@@ -52,10 +52,14 @@ Most rating packages only accept `IconData`. This package solves that with three
 
 ```yaml
 dependencies:
-  universal_rating_bar: ^1.0.0
+  flutter_rating_bar_universal: ^1.0.0
 ```
 
 ## Quick Start
+
+```dart
+import 'package:flutter_rating_bar_universal/flutter_rating_bar_universal.dart';
+```
 
 ### Default stars (with auto half-star icon)
 

@@ -1,4 +1,4 @@
-# universal_rating_bar example
+# flutter_rating_bar_universal example
 
 Run the full interactive demo:
 
