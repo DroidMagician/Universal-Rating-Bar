@@ -3,7 +3,7 @@ description: Example app for universal_rating_bar.
 publish_to: 'none'
 
 environment:
-  sdk: ^3.10.1
+  sdk: ^3.0.0
 
 dependencies:
   flutter:

@@ -211,14 +211,14 @@ UniversalRatingBar(
 ## Example app
 
 ```bash
-git clone https://github.com/kishan/universal_rating_bar
-cd universal_rating_bar/example
+git clone https://github.com/DroidMagician/Universal-Rating-Bar
+cd Universal-Rating-Bar/example
 flutter run
 ```
 
 ## pub.dev topics
 
-`rating` · `rating-bar` · `star-rating` · `widgets` · `svg` · `ui` · `flutter-widget` · `reviews`
+`rating` · `rating-bar` · `star-rating` · `widgets` · `svg`
 
 ## License
 
